@@ -1,2 +1,2 @@
 # machinelearning
-Code for the #WAQ17 presentation on April 4th 2017
+Code for the #ConFoo presentation in March 2018
